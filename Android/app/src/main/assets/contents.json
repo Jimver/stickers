@@ -373,6 +373,117 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "3",
+      "name": "Party parrot",
+      "publisher": "Jim",
+      "tray_image_file": "parrot_icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_parrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "02_fastparrot.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "03_ultrafastparrot.webp",
+          "emojis": [
+            "😂"
+          ]
+        },
+        {
+          "image_file": "04_reverseparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "05_partyparrot.webp",
+          "emojis": [
+            "🥳"
+          ]
+        },
+        {
+          "image_file": "06_shuffleparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "07_moonwalkingparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "08_congaparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "09_reversecongaparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10_aussiecongaparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11_aussiereversecongaparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12_aussieparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13_birthdaypartyparrot.webp",
+          "emojis": [
+            "🥳"
+          ]
+        },
+        {
+          "image_file": "14_sleepingparrot.webp",
+          "emojis": [
+            "😴"
+          ]
+        },
+        {
+          "image_file": "15_sintparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16_thefastestparrot.webp",
+          "emojis": [
+            "🙂"
+          ]
+        }
+      ]
     }
   ]
 }
